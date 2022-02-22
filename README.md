@@ -46,7 +46,7 @@ $ sudo docker run musicplayer
 Command | Description
 :--- | :---
 • !ping | işlemeyi yoxla
-• !start / !help | ərmləri görun
+• !start / !help | əmrləri görun
 • !mode / !switch | Switch the stream mode (audio/video)
 • !p / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
 • !radio / !stream [radio url or stream link] | Play a live stream in vc, if already playing add to queue
