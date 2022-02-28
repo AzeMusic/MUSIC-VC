@@ -1,5 +1,5 @@
 {
-    "name": "Legend Music Player",
+    "name": "Songaz Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
     "repository": "https://github.com/LEGEND-OS/MUSIC-VC",
     "logo": "https://github.com/LEGEND-OS/MUSIC-VC/raw/main/theme/logo.png",
@@ -34,13 +34,13 @@
       },
       "PREFIX": {
         "description": "Bot commad prefix or handler (separate multiple prefix with space). By DefaultU Can Set <$>",
-        "value": "$",
+        "value": "!",
         "required": true 
       },
       "LANGUAGE": {
         "description": "An available bot language (read the README.md for more info)",
         "value": "en",
-        "required": false
+        "required": true
       },
       "CUSTOM_QUALITY": {
         "description": "An available stream quality (read the README.md for more info)",
